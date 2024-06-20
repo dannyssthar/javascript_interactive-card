@@ -1,1 +1,1 @@
-# javascript_interactive-card
+this is an interactive javascript card
